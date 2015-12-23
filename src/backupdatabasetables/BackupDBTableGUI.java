@@ -5,8 +5,8 @@ package backupdatabasetables;
  * BackupDBTables
  * This project creates backup tables of the tables in a database.
  * 
- * @Author     Carlos Igreja
- * @CreatedOn  December 21, 2015
+ * @author     Carlos Igreja
+ * @since      December 21, 2015
  */
 public class BackupDBTableGUI extends javax.swing.JFrame {
 
